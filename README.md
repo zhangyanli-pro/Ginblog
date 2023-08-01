@@ -1,4 +1,8 @@
 <div align="center">
+参考来源：https://github.com/wejectchen/Ginblog
+</div>
+
+<div align="center">
 
 # Ginblog（项目已完成，欢迎使用)
 
